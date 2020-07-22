@@ -1,0 +1,28 @@
+<div>
+    <% if(jsonArray && jsonArray.length > 0) { 
+      let keys = Object.keys(jsonArray[0]); %>
+    <table id="data-table">
+        <caption><%= name %></caption>
+        <thead>
+            <tr>
+                <% for(let i = 0; i < keys.length; i++){ %>
+                <th>
+                    <%= keys[i] %> <i class="fas fa-sort" onclick="sort('<%= i %>')"></i>
+                </th>
+                <% } %>
+            </tr>
+        </thead>
+        <tbody>
+            <% for(jsonObj of jsonArray){ %>
+            <tr>
+                <% for (key in jsonObj) { %>
+                <td>
+                    <%= jsonObj[key] %>
+                </td>
+                <% } %>
+            </tr>
+            <% } %>
+        </tbody>
+    </table>
+    <% }%>
+</div>

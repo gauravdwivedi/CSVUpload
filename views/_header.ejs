@@ -1,0 +1,31 @@
+<header id="layout-header">
+    <nav>
+        <div class="mini-logo">
+            <p>
+                <a href="/">
+                    CSV-Upload
+                </a>
+            </p>
+        </div>
+        <form action="/files/upload" enctype="multipart/form-data" method="POST">
+            <input type="file" name="csvfile" accept=".csv, text/csv" placeholder="select the csv file">
+            <input type="submit" value="Upload">
+        </form>
+        <br />
+        <% if(locals.message) { %>
+        <p><%=message%></p>
+        <% } %>
+        <div class="auth-links">
+            <ul>
+
+                <li>
+                    <input type="text" class="search">
+                </li>
+                <li>
+                    <a href="/files">View Files</a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+</header>

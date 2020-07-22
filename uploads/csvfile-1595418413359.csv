@@ -1,0 +1,68 @@
+Series reference,Period,Description,Revised,Initially published
+2019.09,PPIQ.SQN800000,"All industries excl admin health educati, Inputs Indexes (Level 0)",1167,1164
+2019.12,PPIQ.SQN800000,"All industries excl admin health educati, Inputs Indexes (Level 0)",1170,1166
+2019.09,PPIQ.SQN800001,"All industries ex admin health edu OOD, Inputs Indexes (Level 0)",1167,1164
+2019.12,PPIQ.SQN800001,"All industries ex admin health edu OOD, Inputs Indexes (Level 0)",1170,1166
+2019.09,PPIQ.SQN900000,"All industries, Inputs Indexes (Level 0)",1166,1164
+2019.12,PPIQ.SQN900000,"All industries, Inputs Indexes (Level 0)",1169,1165
+2019.09,PPIQ.SQN900001,"All industries excl OOD, Inputs Indexes (Level 0)",1166,1163
+2019.12,PPIQ.SQN900001,"All industries excl OOD, Inputs Indexes (Level 0)",1169,1165
+2019.12,PPIQ.SQNAA0000,"Agriculture, Forestry and Fishing, Inputs Indexes (Level 1)",1207,1206
+2019.12,PPIQ.SQNAA2000,"Forestry and Logging, Inputs Indexes (Level 2)",1217,1208
+2019.12,PPIQ.SQNAA2100,"Forestry and Logging, Inputs Indexes (Level 3)",1217,1208
+2019.12,PPIQ.SQNAA211X,"Forestry and Logging, Inputs Indexes (Level 4)",1217,1208
+2019.09,PPIQ.SQNCC0000,"Manufacturing, Inputs Indexes (Level 1)",1154,1144
+2019.12,PPIQ.SQNCC0000,"Manufacturing, Inputs Indexes (Level 1)",1162,1149
+2019.09,PPIQ.SQNCC1000,"Food, Beverage and Tobacco Product Manuf, Inputs Indexes (Level 2)",1203,1184
+2019.12,PPIQ.SQNCC1000,"Food, Beverage and Tobacco Product Manuf, Inputs Indexes (Level 2)",1232,1208
+2019.09,PPIQ.SQNCC1300,"Dairy Product Manufacturing, Inputs Indexes (Level 3)",1131,1094
+2019.12,PPIQ.SQNCC1300,"Dairy Product Manufacturing, Inputs Indexes (Level 3)",1162,1116
+2019.09,PPIQ.SQNCC131X,"Dairy Product Manufacturing, Inputs Indexes (Level 4)",1131,1094
+2019.12,PPIQ.SQNCC131X,"Dairy Product Manufacturing, Inputs Indexes (Level 4)",1162,1116
+2019.12,PPIQ.SQNCC1400,"Fruit, Oil, Cereal and Other Food Produc, Inputs Indexes (Level 3)",1138,1137
+2019.12,PPIQ.SQNCC141X,"Fruit, Oil, Cereal and Other Food Product Manufact, Inputs Indexes (Level 4)",1138,1137
+2019.12,PPIQ.SQNCC3000,"Wood and Paper Products Manufacturing, Inputs Indexes (Level 2)",1150,1139
+2019.12,PPIQ.SQNCC3100,"Wood Product Manufacturing, Inputs Indexes (Level 3)",1179,1166
+2019.12,PPIQ.SQNCC311X,"Wood Product Manufacturing, Inputs Indexes (Level 4)",1179,1166
+2019.12,PPIQ.SQNCC3200,"Pulp, Paper and Converted Paper Product, Inputs Indexes (Level 3)",1108,1100
+2019.12,PPIQ.SQNCC321X,"Pulp, Paper and Converted Paper Product Manufactur, Inputs Indexes (Level 4)",1108,1100
+2019.09,PPIQ.SQU900000,"All industries, Outputs Indexes (Level 0)",1179,1178
+2019.12,PPIQ.SQU900000,"All industries, Outputs Indexes (Level 0)",1185,1183
+2019.09,PPIQ.SQU900001,"All industries excl OOD, Outputs Indexes (Level 0)",1178,1176
+2019.12,PPIQ.SQU900001,"All industries excl OOD, Outputs Indexes (Level 0)",1184,1181
+2019.09,PPIQ.SQUAA0000,"Agriculture, Forestry and Fishing, Outputs Indexes (Level 1)",1287,1268
+2019.12,PPIQ.SQUAA0000,"Agriculture, Forestry and Fishing, Outputs Indexes (Level 1)",1318,1290
+2019.09,PPIQ.SQUAA1000,"Agriculture, Outputs Indexes (Level 2)",1298,1273
+2019.12,PPIQ.SQUAA1000,"Agriculture, Outputs Indexes (Level 2)",1336,1305
+2019.09,PPIQ.SQUAA1100,"Horticulture and Fruit Growing, Outputs Indexes (Level 3)",1251,1250
+2019.12,PPIQ.SQUAA1100,"Horticulture and Fruit Growing, Outputs Indexes (Level 3)",1237,1236
+2019.09,PPIQ.SQUAA1110,"Horticulture and Fruit Growing, Outputs Indexes (Level 4)",1251,1250
+2019.12,PPIQ.SQUAA1110,"Horticulture and Fruit Growing, Outputs Indexes (Level 4)",1237,1236
+2019.09,PPIQ.SQUAA1200,"Sheep, Beef Cattle and Grain Farming, Outputs Indexes (Level 3)",1545,1541
+2019.12,PPIQ.SQUAA1200,"Sheep, Beef Cattle and Grain Farming, Outputs Indexes (Level 3)",1613,1608
+2019.09,PPIQ.SQUAA1210,"Sheep, Beef Cattle and Grain Farming, Outputs Indexes (Level 4)",1545,1541
+2019.12,PPIQ.SQUAA1210,"Sheep, Beef Cattle and Grain Farming, Outputs Indexes (Level 4)",1613,1608
+2019.09,PPIQ.SQUAA1300,"Dairy Cattle Farming, Outputs Indexes (Level 3)",1061,1019
+2019.12,PPIQ.SQUAA1300,"Dairy Cattle Farming, Outputs Indexes (Level 3)",1101,1048
+2019.09,PPIQ.SQUAA1310,"Dairy Cattle Farming, Outputs Indexes (Level 4)",1061,1019
+2019.12,PPIQ.SQUAA1310,"Dairy Cattle Farming, Outputs Indexes (Level 4)",1101,1048
+2019.09,PPIQ.SQUAA1400,"Poultry, Deer and Other Livestock Farmin, Outputs Indexes (Level 3)",1284,1281
+2019.12,PPIQ.SQUAA1400,"Poultry, Deer and Other Livestock Farmin, Outputs Indexes (Level 3)",1293,1289
+2019.09,PPIQ.SQUAA1410,"Poultry, Deer and Other Livestock Farming, Outputs Indexes (Level 4)",1284,1281
+2019.12,PPIQ.SQUAA1410,"Poultry, Deer and Other Livestock Farming, Outputs Indexes (Level 4)",1293,1289
+2019.12,PPIQ.SQUAA2000,"Forestry and Logging, Outputs Indexes (Level 2)",1218,1184
+2019.12,PPIQ.SQUAA2100,"Forestry and Logging, Outputs Indexes (Level 3)",1218,1184
+2019.12,PPIQ.SQUAA2110,"Forestry and Logging, Outputs Indexes (Level 4)",1218,1184
+2019.09,PPIQ.SQUAA3000,"Fishing, Aquaculture and Agriculture, Fo, Outputs Indexes (Level 2)",1250,1249
+2019.12,PPIQ.SQUAA3220,"Agriculture, Forestry and Fishing Support Services, Outputs Indexes (Level 4)",1245,1244
+2019.12,PPIQ.SQUC03210,"Logs for domestic market, LPT PPI - NA06CC higher level commodity indexes",1459,1399
+2019.12,PPIQ.SQUC03220,"Logs for export market, LPT PPI - NA06CC higher level commodity indexes",1429,1395
+2019.12,PPIQ.SQUCC0000,"Manufacturing, Outputs Indexes (Level 1)",1166,1165
+2019.09,PPIQ.SQUCC1000,"Food, Beverage and Tobacco Product Manuf, Outputs Indexes (Level 2)",1258,1257
+2019.12,PPIQ.SQUCC1000,"Food, Beverage and Tobacco Product Manuf, Outputs Indexes (Level 2)",1264,1262
+2019.09,PPIQ.SQUCC1300,"Dairy Product Manufacturing, Outputs Indexes (Level 3)",1243,1241
+2019.12,PPIQ.SQUCC1300,"Dairy Product Manufacturing, Outputs Indexes (Level 3)",1220,1217
+2019.09,PPIQ.SQUCC1310,"Dairy Product Manufacturing, Outputs Indexes (Level 4)",1243,1241
+2019.12,PPIQ.SQUCC1310,"Dairy Product Manufacturing, Outputs Indexes (Level 4)",1220,1217
+2019.12,PPIQ.SQUCC3200,"Pulp, Paper and Converted Paper Product, Outputs Indexes (Level 3)",1015,1014
+2019.12,PPIQ.SQUCC3210,"Pulp, Paper and Converted Paper Product Manufactur, Outputs Indexes (Level 4)",1015,1014
